@@ -1,0 +1,1 @@
+Esse é o meu primeiro projeto com um backend e um frontend, utilizei Springboot que venho aprendendo no SENAI e o REACT que venho estudando por fora, com o foco de me tornar um desenvolvedor fullstack
